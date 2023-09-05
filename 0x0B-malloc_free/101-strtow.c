@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * wrdcnt - counts the number of words in a string
